@@ -1,2 +1,1 @@
-'New str' 
-'Other str' 
+'Hello, git' 
