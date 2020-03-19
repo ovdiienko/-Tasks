@@ -1,3 +1,1 @@
- 
-'New projekt' 
-'Other str' 
+'Hello, git!' 
